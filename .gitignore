@@ -1,0 +1,17 @@
+.DS_Store
+log/*.log
+tmp/**/*
+config/database.yml
+coverage/*
+db/*.sqlite3
+vendor/**/*
+doc/api
+doc/app
+doc/plugins
+doc/*.dot
+*~
+*.cache
+*.log
+*.pid
+*.tmproj
+*.sw?
